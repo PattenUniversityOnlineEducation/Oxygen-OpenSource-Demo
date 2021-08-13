@@ -54,7 +54,7 @@ Currently it is working on demo test, offical version will be coming soon.
 <img width="2036" alt="Oxygen Privacy Policy" src="https://user-images.githubusercontent.com/60370016/123182311-ff890800-d443-11eb-931c-df69ad32a296.png">
 
 
-## Team
+## Initial Developer members.
 
 [Ethan Wang] (https://github.com/aertoria) 
 
@@ -63,6 +63,10 @@ Currently it is working on demo test, offical version will be coming soon.
 [Eric Liu] (https://github.com/eric1932)
 
 [Yision Gu] (https://github.com/yisiongu)
+
+[Annie]
+
+[Pan Zhenyu]
 
 
 ## License
